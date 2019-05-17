@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo-jwt
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: andysuning
+Implementation-Vendor-Id: com.hrg
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/demo-jwt
+Created-By: Maven Integration for Eclipse
+
